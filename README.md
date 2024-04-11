@@ -1,2 +1,2 @@
 # Git-Repositorio
- primeiro repositorio versionado do git e git hub
+Repositorio para meus projetos do curso de Git e GitHub 
